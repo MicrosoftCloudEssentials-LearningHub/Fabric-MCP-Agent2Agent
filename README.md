@@ -50,7 +50,7 @@ Last updated: 2025-09-29
 
 ## Prepare your data
 
-> [Medallion Architecture](./AzurePortal/1_MedallionArch/): Explore the structured approach to data management.
+> [Medallion Architecture](./0_Medallion_Arch/): Explore the structured approach to data management.
 
  <div align="center">
    <img src="https://github.com/user-attachments/assets/2c5141ea-4f3a-4054-b8bd-313efde24ff0" alt="Centered Image" style="border: 2px solid #4CAF50; border-radius: 2px; padding: 2px; width: 900px; height: auto;"/>
