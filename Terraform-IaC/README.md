@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/1ab31707-6f4c-4ec7-9e92-5d5cc96ac5bb
 1. **Login to Azure**: This command logs you into your Azure account. It opens a browser window where you can enter your Azure credentials. Once logged in, you can manage your Azure resources from the command line.
 
     ```sh
-    cd ./Terraform/src/
+    cd ./Terraform-IaC/src/
     ```
     
     ```sh
