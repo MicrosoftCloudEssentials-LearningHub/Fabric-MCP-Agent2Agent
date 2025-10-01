@@ -99,7 +99,7 @@ E.g:
     <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/1cb31d49-6138-4c95-835a-a61ccb08661b">
 
 5. At least one of these: A warehouse, a lakehouse, one or more Power BI semantic models, or a KQL database with data.
-
+      
 </details>
 
 <details>
