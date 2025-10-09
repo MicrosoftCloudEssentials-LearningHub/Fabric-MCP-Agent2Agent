@@ -35,7 +35,7 @@ Last updated: 2025-09-29
 
 </details>
 
-<img width="1141" height="891" alt="MedallionArch-Fabric_Databricks-databricks+data-agents+copilot-Studio drawio" src="https://github.com/user-attachments/assets/2c4f94c6-de41-4b59-b812-0c122483ff53" />
+<img width="1141" height="669" alt="MCP-Fabric-Agent2Agent-CopilotStudio-databricks+data-agents+copilot-Studio drawio" src="https://github.com/user-attachments/assets/76be59e3-f48e-4c01-aa58-464463658d92" />
 
 > [!NOTE]
 > About the licensing: [Microsoft 365 Copilot Pricing – AI Agents | Copilot Studio](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio?msockid) <br/>
