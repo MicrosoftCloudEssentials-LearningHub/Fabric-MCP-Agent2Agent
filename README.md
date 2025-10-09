@@ -59,7 +59,7 @@ Last updated: 2025-09-29
 > Or if you need to handle `complex data transformations and large-scale data processing`, you can use our combined solution of **Fabric + Databricks**. This powerful combination leverages the strengths of both platforms to provide a robust data processing pipeline. This workshop on [Fabric with Databricks for Data Analytics](https://microsoft.github.io/TechExcel-Fabric-with-Databricks-for-Data-Analytics/) offers a comprehensive step-by-step guide on developing Medallion Architecture using Fabric and Databricks. <br/>
 
 <p align="center">
-  <img width="650" alt="image" src="https://github.com/user-attachments/assets/58431d3b-e294-46fe-89a4-92a046168ec4" />
+  <img width="650" alt="image" src="https://github.com/user-attachments/assets/2c4f94c6-de41-4b59-b812-0c122483ff53" />
 </p>
 
 Click [here to read more about Azure Databricks + Fabric](https://github.com/MicrosoftCloudEssentials-LearningHub/DemosScenarios-TechTalks/blob/main/0_Azure/2_AzureAnalytics/3_Databricks/1_demos/0_MedallionArch_Fabric%2BDatabricks/README.md) `better together`
@@ -132,7 +132,7 @@ E.g:
 | **Question**                                                                 | **Example of it looks**                                                                                       |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | **Data Exploration**                                                         |                                                                                                               |
-| - Can you provide an overview of this dataset?  <br/> - Are there any missing values or anomalies in this dataset?                               |            <img width="500" alt="image" src="https://github.com/user-attachments/assets/2a43117e-3b29-46f8-98b7-f097df425429">                                                                                                    |
+| - Can you provide an overview of this dataset?  <br/> - Are there any missing values or anomalies in this dataset?                               |            <img width="500" alt="image" src="https://github.com/user-attachments/assets/2a43117e-3b29-46f8-98b7-f097df425429">|
 |  What are the key variables in this data?                                   |       <img width="500" alt="image" src="https://github.com/user-attachments/assets/621c6237-7c79-4c67-981a-e9d7afccf29f">|
 | **Data Insights**                                                            |                                                                                                               |
 | What patterns or trends can you identify in this data?                     |<img width="500" alt="image" src="https://github.com/user-attachments/assets/899653c3-fa41-4834-8606-37759a7f1ad6">               |
