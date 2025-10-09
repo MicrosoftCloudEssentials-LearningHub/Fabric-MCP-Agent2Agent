@@ -6,7 +6,7 @@ Costa Rica
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last updated: 2025-09-29
+Last updated: 2025-10-09
 
 ----------
 
@@ -66,7 +66,7 @@ Click [here to read more about Azure Databricks + Fabric](https://github.com/Mic
 
 ## Use Fabric Data Agent (Preferred for Semantic Models)
 
-> AI skills in Microsoft Fabric enable users to `create conversational AI experiences that answer questions about data stored
+> Data Agent (AI skills in your data) in Microsoft Fabric enable users to `create conversational AI experiences that answer questions about data stored
 > in lakehouses, warehouses, Power BI semantic models, and KQL databases`. These skills make data insights accessible and
 > actionable, allowing users to `interact with data naturally and receive relevant answers without needing technical expertise`.
 > You can create custom Q&A systems using generative AI, guiding the AI with instructions and examples to ensure it understands your organization's context and data.
@@ -154,7 +154,7 @@ https://github.com/user-attachments/assets/bdb581c2-ccc9-48b1-a4ce-6b3c465f10bc
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-22-limegreen" alt="Total views">
-  <p>Refresh Date: 2025-09-30</p>
+  <img src="https://img.shields.io/badge/Total%20views-1397-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-10-09</p>
 </div>
 <!-- END BADGE -->
