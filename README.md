@@ -41,7 +41,13 @@ Last updated: 2025-10-09
 
 </details>
 
+> Low code approach (Copilot Studio Agents):
+
 <img width="1141" height="669" alt="MCP-Fabric-Agent2Agent-CopilotStudio-databricks+data-agents+copilot-Studio drawio" src="https://github.com/user-attachments/assets/76be59e3-f48e-4c01-aa58-464463658d92" />
+
+> Full code approach (AI Foundry Agents):
+
+<img width="1141" height="668" alt="MCP-Fabric-Agent2Agent-CopilotStudio-data agent Fabric + AI Foundry drawio" src="https://github.com/user-attachments/assets/5742dc3a-427d-4ab5-862d-ba291a31fc35" />
 
 > [!NOTE]
 > About the licensing: [Microsoft 365 Copilot Pricing – AI Agents | Copilot Studio](https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/copilot-studio?msockid) <br/>
@@ -160,7 +166,7 @@ https://github.com/user-attachments/assets/bdb581c2-ccc9-48b1-a4ce-6b3c465f10bc
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-1397-limegreen" alt="Total views">
+  <img src="https://img.shields.io/badge/Total%20views-1412-limegreen" alt="Total views">
   <p>Refresh Date: 2025-10-09</p>
 </div>
 <!-- END BADGE -->
