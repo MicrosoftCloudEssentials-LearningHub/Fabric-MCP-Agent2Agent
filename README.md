@@ -66,7 +66,7 @@ Click [here to read more about Azure Databricks + Fabric](https://github.com/Mic
 
 ## Use Fabric Data Agent (Preferred for Semantic Models)
 
-> AI skills in Microsoft Fabric enable users to `create conversational AI experiences that answer questions about data stored
+> Data Agent (AI skills in your data) in Microsoft Fabric enable users to `create conversational AI experiences that answer questions about data stored
 > in lakehouses, warehouses, Power BI semantic models, and KQL databases`. These skills make data insights accessible and
 > actionable, allowing users to `interact with data naturally and receive relevant answers without needing technical expertise`.
 > You can create custom Q&A systems using generative AI, guiding the AI with instructions and examples to ensure it understands your organization's context and data.
