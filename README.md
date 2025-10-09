@@ -13,7 +13,7 @@ Last updated: 2025-10-09
 <details>
 <summary><b>List of References</b> (Click to expand)</summary>
 
-- [Consume Fabric data agent from Azure AI Foundry Services (preview)](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-foundry) - AI foundry approach (full code)
+- [Consume Fabric data agent from Azure AI Foundry Services (preview)](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-foundry) - AI Foundry approach (full code)
 - [Copilot Studio MCP Catalog](https://learn.microsoft.com/en-us/microsoft-copilot-studio/mcp-microsoft-mcp-servers)
 - [Connect to an existing Model Context Protocol (MCP) server](https://learn.microsoft.com/en-us/microsoft-copilot-studio/mcp-add-existing-server-to-agent)
 - [Microsoft Copilot Studio - MCP](https://github.com/microsoft/mcsmcp) - GitHub repo
