@@ -6,7 +6,7 @@ Costa Rica
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-Last updated: 2025-10-09
+Last updated: 2025-10-15
 
 ----------
 
@@ -38,6 +38,40 @@ Last updated: 2025-10-09
 - [Prepare your data](#prepare-your-data)
 - [Use Fabric Data Agent Preferred for Semantic Models](#use-fabric-data-agent-preferred-for-semantic-models)
 - [Fabric Data linked to Copilot Studio MCP](#fabric-data-linked-to-copilot-studio-mcp)
+
+</details>
+
+<details> 
+<summary><b> Before Fabric</b> (Click to expand)</summary>
+
+<p float="left">
+  <img src="https://github.com/brown9804/MSCloudEssentials_LPath/assets/24630902/c47ad7c0-375e-4257-b56e-7b3b89619e2f" width="450" height="200" />
+  <img src="https://github.com/brown9804/MSCloudEssentials_LPath/assets/24630902/64812721-7c24-4771-90f4-27f7a21fa9e0" width="350" height="200" />
+</p>
+
+> E.g of a solution prior Microsoft Fabric:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/af2aa6cb-0349-481b-abe4-d8c470551899" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+> Now from one place:
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/aaf00cd7-531a-4dc8-bf2f-c7606c607b87" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/8fdb3198-8fda-4dd0-869e-b0dccb268a30" 
+       alt="Centered Image" 
+       style="width: 70%; border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+From [Microsoft Documentation](https://learn.microsoft.com/pt-br/fabric/fundamentals/microsoft-fabric-overview)
 
 </details>
 
@@ -166,7 +200,7 @@ https://github.com/user-attachments/assets/bdb581c2-ccc9-48b1-a4ce-6b3c465f10bc
 
 <!-- START BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20views-1412-limegreen" alt="Total views">
-  <p>Refresh Date: 2025-10-09</p>
+  <img src="https://img.shields.io/badge/Total%20views-1383-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-10-15</p>
 </div>
 <!-- END BADGE -->
