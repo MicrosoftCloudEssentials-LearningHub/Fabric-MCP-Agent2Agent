@@ -224,6 +224,8 @@ E.g:
 3. In Copilot Studio, go to `Agents → Add an agent`, then `select your Fabric Data Agent from the list.`
 4. Test the integration by running sample queries such as: `What was the revenue last quarter?`
 
+<img width="1870" height="814" alt="image" src="https://github.com/user-attachments/assets/568a6489-7939-4b31-aec1-d554689b73cc" />
+
 <img width="1898" height="993" alt="image" src="https://github.com/user-attachments/assets/94620e12-61df-4233-93db-b04af1bdd294" />
 
 https://github.com/user-attachments/assets/bdb581c2-ccc9-48b1-a4ce-6b3c465f10bc
