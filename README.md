@@ -9,10 +9,10 @@ Last updated: 2025-10-15
 
 ----------
 
-
 <details>
 <summary><b>List of References</b> (Click to expand)</summary>
 
+- [Microsoft MCP Servers](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [Consume Fabric data agent from Azure AI Foundry Services (preview)](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-foundry) - AI Foundry approach (full code)
 - [Microsoft Fabric end-to-end security scenario](https://learn.microsoft.com/en-us/fabric/security/security-scenario)
 - [Fabric data agent example with the AdventureWorks dataset (preview)](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-end-to-end-tutorial)
